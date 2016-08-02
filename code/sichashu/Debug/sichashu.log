@@ -1,0 +1,31 @@
+﻿生成启动时间为 2014/5/31 22:11:20。
+     1>项目“H:\2014软件学院学生科技创新项目\初始作品\sichashu\sichashu.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\sichashu.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\Visual Studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\sichashu.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\Visual Studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\sichashu.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt sichashu.cpp
+         sichashu.cpp
+     1>h:\2014软件学院学生科技创新项目\初始作品\sichashu\sichashu.cpp(63): warning C4172: 返回局部变量或临时变量的地址
+     1>h:\2014软件学院学生科技创新项目\初始作品\sichashu\sichashu.cpp(192): warning C4172: 返回局部变量或临时变量的地址
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\sichashu.exe.embed.manifest.res" Debug\sichashu_manifest.rc 
+       Link:
+         F:\Visual Studio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\2014软件学院学生科技创新项目\初始作品\Debug\sichashu.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sichashu.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\2014软件学院学生科技创新项目\初始作品\Debug\sichashu.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\2014软件学院学生科技创新项目\初始作品\Debug\sichashu.lib" /MACHINE:X86 Debug\sichashu.exe.embed.manifest.res
+         Debug\sichashu.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\sichashu.exe.embed.manifest" /manifest Debug\sichashu.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         sichashu.vcxproj -> H:\2014软件学院学生科技创新项目\初始作品\Debug\sichashu.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\sichashu.unsuccessfulbuild”。
+         正在对“Debug\sichashu.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\2014软件学院学生科技创新项目\初始作品\sichashu\sichashu.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.10
